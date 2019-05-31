@@ -1,6 +1,6 @@
 # my-resume
 
-点击[预览](https://jjjjokeryang.github.io/myResume/dist/)
+点击[预览](https://zzzJoelyang.github.io/myResume/dist/)
 
 > This is a resume
 
