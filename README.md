@@ -1,6 +1,6 @@
 # my-resume
 
-点击[预览](https://yangjlcn.github.io/myResume/dist/)
+点击[预览](https://yangjlx.github.io/myResume/dist/)
 
 > This is a resume
 
